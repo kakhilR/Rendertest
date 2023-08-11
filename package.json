@@ -2,6 +2,7 @@
   "name": "Rendertest",
   "version": "1.0.0",
   "main": "index.js",
+  "type":"module",
   "repository": "https://github.com/kakhilR/Rendertest.git",
   "author": "kakhilR <akhilkarenae@gmail.com>",
   "license": "MIT",
